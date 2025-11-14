@@ -76,3 +76,49 @@ Organized layout ensuring smooth navigation across sections.
 ### 2.Microsoft Excel (data source)
 ### 3.Data Modeling & DAX
 ### 4.Data Visualization & Report Design
+## 💡 Key Insights
+1. Successful Booking Rate Is Strong
+
+62% of all bookings were completed successfully, indicating stable operational efficiency.
+
+However, 28% cancellations highlight opportunities for service improvement.
+
+2. Driver vs Customer Cancellations Show Root Causes
+
+Driver cancellations mainly due to customer-related issues, car problems, or excess passengers.
+
+Customer cancellations mostly due to driver delays, change of plans, wrong address, and AC/vehicle issues.
+👉 Suggests both operational and communication gaps.
+
+3. Prime SUV & Prime Plus Generate Highest Revenue
+
+Vehicle types such as Prime SUV and Prime Plus contribute the most to total revenue.
+
+Budget categories like Mini/Auto/Bike have lower revenue but higher ride frequency.
+
+4. Average Ride Distance Is Consistent
+
+Across all vehicle types, the average trip distance remains ~4.5–4.6 km, showing uniform customer behavior.
+
+5. Stable Daily Ride Demand
+
+Total daily distance traveled remains around 9,000–9,700 km.
+👉 Shows consistent day-to-day demand, helpful for fleet planning.
+
+6. Top Customers Drive Significant Revenue
+
+A few high-value customers contribute a noticeable share of total revenue.
+👉 Indicates opportunities for loyalty programs or premium features.
+
+7. Rating Scores Show High Satisfaction
+
+Driver Ratings: 4.64–4.65
+
+Customer Ratings: 4.75–4.76
+👉 Both groups maintain strong satisfaction levels with minor variation.
+
+8. Operational Issues Need Attention
+
+High cancellation counts affect customer trust and driver earnings.
+
+Improving real-time tracking, communication, and vehicle quality could reduce cancellations.
