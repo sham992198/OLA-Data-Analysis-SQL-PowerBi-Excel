@@ -128,3 +128,9 @@ Improving real-time tracking, communication, and vehicle quality could reduce ca
 Learned how to handle missing values, duplicates, incorrect entries, and inconsistent formatting.
 
 Understood the importance of structured data before moving to analysis.
+## 🚀 Future Improvements
+### 1. Add Real-Time Data Integration
+
+Connect the dashboard to a live database or API to update trips, cancellations, and revenue automatically.
+
+Helps simulate real corporate dashboards used by companies like OLA/Uber.
