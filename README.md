@@ -71,3 +71,8 @@ Enables dynamic analysis and user-controlled insights.
 Uses charts, cards, KPIs, and color coding for easy interpretation.
 
 Organized layout ensuring smooth navigation across sections.
+## 📊 Tools & Technologies Used
+### 1.Power BI Desktop
+### 2.Microsoft Excel (data source)
+### 3.Data Modeling & DAX
+### 4.Data Visualization & Report Design
