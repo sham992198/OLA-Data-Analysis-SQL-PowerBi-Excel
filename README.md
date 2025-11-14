@@ -134,3 +134,10 @@ Understood the importance of structured data before moving to analysis.
 Connect the dashboard to a live database or API to update trips, cancellations, and revenue automatically.
 
 Helps simulate real corporate dashboards used by companies like OLA/Uber.
+## 📸 Dashboard Snapshot
+<img width="1127" height="644" alt="Screenshot 2025-11-14 115603" src="https://github.com/user-attachments/assets/453048b6-31af-43f9-9933-6427a0232f2e" />
+<img width="1121" height="638" alt="Screenshot 2025-11-14 115540" src="https://github.com/user-attachments/assets/60c75d8f-ffe7-4dc4-93b2-550bbea60fa6" />
+<img width="1097" height="645" alt="Screenshot 2025-11-14 115514" src="https://github.com/user-attachments/assets/904dad70-1adb-43ba-a429-de9b0427d422" />
+<img width="1115" height="649" alt="Screenshot 2025-11-14 115453" src="https://github.com/user-attachments/assets/21414fa5-d78a-47a0-9b24-381d917f0eb9" />
+<img width="1098" height="633" alt="Screenshot 2025-11-14 115416" src="https://github.com/user-attachments/assets/6c5a068b-a3e5-409c-a961-341ff2513541" />
+
